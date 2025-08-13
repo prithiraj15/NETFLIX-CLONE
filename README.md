@@ -19,8 +19,8 @@ NETFLIX is a state-of-the-art streaming platform designed to cater to the divers
 
 ## Technology Used🚀
 
-<img src="https://github.com/Sneha123-zudo/Netflix-Sign-In-Page/assets/145490348/3c45dac1-b4e7-4113-b369-8edaf11d5214" height="50"> 
-<img src="https://github.com/Sneha123-zudo/Netflix-Sign-In-Page/assets/145490348/b1744c1d-ced6-4dc8-ad9f-0a6ebc2b7d00" height="50">
+<img src="https://github.com/prithiraj15/NETFLIX-CLONE/assets/145490348/3c45dac1-b4e7-4113-b369-8edaf11d5214" height="50"> 
+<img src="https://github.com/prithiraj15/NETFLIX-CLONE/assets/145490348/b1744c1d-ced6-4dc8-ad9f-0a6ebc2b7d00" height="50">
 
 
 ##  Overview⭐
