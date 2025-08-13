@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/Sneha123-zudo/Netflix-Sign-In-Page/assets/145490348/ba5d647c-ed5b-4a3c-9dff-e7627ccd8e25" height="150" width="150" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/prithiraj15/NETFLIX-CLONE/main/assets/images/logo.png" height="150" width="150" /></div>
 
 # <div align="center">NETFLIX</div>
 
